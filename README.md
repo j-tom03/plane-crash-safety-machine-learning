@@ -10,8 +10,13 @@ The project contains:
 * `text.txt` - the columns found in the modified dataset
 
 ## Running the Models
+```python
+python all_code.py
+```
 
-Requirements:
+Note: not all functions are called in main, uncomment or add other lines to run all functions
+
+## Requirements
 - pandas
 - numpy
 - matplotlib
