@@ -2,7 +2,7 @@
 
 This project uses a historical dataset documenting plane crashes and applies a series of ML techniques to explore and model the data.
 
-The files contain:
+The project contains:
 * `Executive Summary.pdf` - a report outlining the models developed and the results from these
 * `Presentation.pdf` - slides to support presentation of the results generated
 * `Plane Crashes.csv` - a csv file containing historical planne crash data, source: [kaggle](https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data)
