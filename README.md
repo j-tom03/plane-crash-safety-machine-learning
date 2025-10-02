@@ -8,7 +8,15 @@ The files contain:
 ## Running the Models
 
 Requirements:
-- 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
+- imblearn
+- nltk
+- keras
+- shap
 
 
 I completed this project whilst undertaking the ECM3420 module at the University of Exeter, the specification can be found in *specification.pdf*
